@@ -1,0 +1,7 @@
+{
+    "clientVersion": 14,
+    "client_url": "http://unisamp-mobile.ru/mobile/apk/samp.apk",
+    "data_full_url": "http://unisamp-mobile.ru/mobile/cache/full_list.json",
+    "data_lite_url": "http://unisamp-mobile.ru/mobile/cache/lite_list.json",
+    "data_samp_url": "http://unisamp-mobile.ru/mobile/cache/samp_list.json"
+}
